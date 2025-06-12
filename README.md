@@ -24,7 +24,7 @@
 		float: left;
 		background-color: lightgray;
 		width: 120px;
-		min-height: 2300px;
+		min-height: 1500px;
 		padding: 10px;
 	}
 	#content
