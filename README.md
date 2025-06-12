@@ -84,7 +84,7 @@
 			<br>
 			<a href="https://michu-sys.github.io/komp5/"> Zasilacz </a>   <br />
 			<br>
-			<a href="Dysk.html"> -Dysk HDD/SSD </a> <br />
+			<a href="https://michu-sys.github.io/komp7/"> -Dysk HDD/SSD </a> <br />
 			
 		</div>
 		
